@@ -1,4 +1,4 @@
-final state of application. exercise done in approximately 50 minutes.
+final state of unicafe application. exercise done in approximately 50 minutes.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
